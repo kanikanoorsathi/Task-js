@@ -1,11 +1,5 @@
-// var readline = require("readline");
-// var rl = readline.createInterface({
-//     input: process.stdin,
-//     ouput: process.stdin
-// });
 
-// var input = []
-
+// foodPrice
 var orangePrice = 300;
 var applePrice = 200;
 var totalPrice =orangePrice + applePrice;
