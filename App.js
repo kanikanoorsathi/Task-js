@@ -16,7 +16,7 @@
         const numAge = Number (age);
         
         if (isNaN(numAge)){
-            console.log("Age must be a number");
+            
 
 
         } else if (numAge < 0){
